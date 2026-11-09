@@ -1,8 +1,8 @@
-<img src="banner.svg" alt="Dariya Bektursyn, app developer" width="100%">
+<img src="banner.svg" alt="Dariya Bektursyn" width="100%">
 
 <p align="center">Designing and building apps for iOS &amp; Android</p>
 
-<p align="center">Based in Almaty, Kazakhstan</p>
+<p align="center">Currently based in Almaty, Kazakhstan</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dariyabektursyn"><img src="https://img.shields.io/badge/LinkedIn-dariyabektursyn-1F3DFF?style=flat-square&labelColor=0B1BB0" alt="LinkedIn: dariyabektursyn"></a>
@@ -14,12 +14,12 @@
 
 ### About me
 
-I'm an app developer from Almaty who designs, builds and publishes native apps for iOS and Android. I enjoy taking an idea all the way from the first Figma mockup to a live release on the App Store and Google Play, and I care about apps that both work well and look good.
+I'm an app developer from Kazakhstan who designs, builds and publishes native apps for iOS and Android. I care about profitable apps that both work well and look good.
 
 Working on Damagram. 
 ### Apps & projects
 
-- **Tamyr App (2025):** Breakdown of user's blood test results 
+- **Tamyr App (2025):** Kotlin based mobile app. Tamyr analyzes blood and urine tests, educates users through articles and gives personalized nutrition recommendations, based on the deficits and personal needs, such as allergies, intolerances, food habits. User needs to register his account and complete a symptom-based questionnaire, then receive a personalized list of recommended lab tests. After, user can upload a PDF or photo of the blood test results. With the usage of AI our app compares the values with the normal indicators depending on age, gender, weight. Then the app gives instructions on how to improve their imbalances. The project won Semifinals at Technovation Girls Kazakhstan 2025. 
 
 ### Skills
 
